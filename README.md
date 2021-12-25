@@ -21,3 +21,5 @@ I know there are a lot of calculators out there way better than mine, BUT I've m
 * Add `,` to work with real numbers;
 * Add other operators like `log`, `^`, `sqrt`;
 * Workout exceptions.
+
+## That's it, [JustACalc-v0](https://github.com/ThiagoBoimer/JustACalc/raw/master/JustACalc-v0.jar)
